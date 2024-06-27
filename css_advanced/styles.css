@@ -1,0 +1,138 @@
+body {
+    background-color: #ffffff;
+  }
+header {
+    background-color: #979797;
+}
+.quote {
+    background-color: #c271ff;
+    display: flex;
+} 
+.girl {
+    justify-content: center;
+    align-items: center;
+    padding: 70px 50px;
+}
+.video {
+    background-color: #ffffff;
+    width: 100%;
+    text-align: center;
+}
+.back {
+    display: flex;
+}
+.total {
+    justify-content: center;
+    align-items: center;
+    padding: 70px 50px;
+}
+.name {
+    color: black;
+}
+.father {
+    display: flex;
+}
+.fa-solid fa-star {
+    justify-content: center;
+    align-items: center;
+    padding: 70px 50px;
+    background-color: #c271ff;
+
+}
+.membership {
+    background-color: #071629;
+    width: 100%;
+    text-align: center;
+    color: white;
+    font-size: 18;
+    font-style: semibold;
+}
+.row {
+    display: flex;
+}
+.align {
+    justify-content: center;
+    align-items: center;
+    padding: 70px 50px;
+}
+.faq {
+    background-color: #ffffff;
+    text-align: center;
+    color: #071629;
+    font-style: light;
+    font-size: 60;
+}
+.container {
+    display: flex;
+}
+.column {
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 40px 80px; 
+}
+footer {
+    background-color: #071629;
+    width: 1440;
+    height: 249;
+}
+.doti {
+    text-align: center;
+}
+.parent {
+    color: #ffffff;
+    align-items: end;
+    justify-content: end;
+    text-align: end;
+}
+.fa-brands {
+    align-items: right;
+}
+p, h3 {
+    color: white;
+}
+.banner {
+    background-image: url("C:\Users\evaline\css_basic\images\Bitmap (2).png");
+    background-size: cover;
+    background-color: #979797;
+    text-align: center;
+}
+.cat {
+    display: flex;
+    justify-content: end;
+    align-items: end;
+}
+.link {
+    flex-direction: row;
+    margin: 0 20px;
+} 
+.mother {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 20vh;
+}
+.dog {
+    flex-direction: row;
+    margin: 0 50px;
+}
+.son {
+    display: flex;
+}
+.boy {
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 70px 50px;
+}
+h1 {
+    text-align: center;
+    font-style: bold;
+    font-size: 120;
+    color: #ffffff;
+}
+button {
+    background-color: #c271ff;
+    color: #ffffff;
+}
+
