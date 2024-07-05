@@ -1,0 +1,25 @@
+.contact {
+    display: flex;
+}
+.name {
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 335px;
+    height: 373px;
+    margin-left: 700px;
+    padding-top: 50px;
+    font-weight: bold;
+
+}
+button {
+    border-radius: 22px;
+    background-color: #ff6565;
+    color: #ffffff;
+    width: 162px;
+    height: 44px;
+    
+}
+button:hover {
+    opacity: 0.9;
+}
