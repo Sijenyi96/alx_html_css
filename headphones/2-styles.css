@@ -1,0 +1,22 @@
+body {
+    background-image: url(Bitmap0.png); 
+    background-image: black;
+    background-size: cover;
+    color: #ffffff;
+    width: 1400px;
+    height: 650px;
+}
+.lorem {
+    justify-content: center;
+    text-align: center;
+    padding: 100px;
+}
+.dot {
+    display: flex;
+}
+.map {
+    flex: auto;
+    justify-items: center;
+    align-items: center;
+
+}
