@@ -1,3 +1,105 @@
+.background-image {
+    background-image: url(Bitmap\ \(3\).png);
+    background-size: cover;
+    background-color: #979797;
+    color: #ffffff;
+    height: 800px;
+    width: 1400px;
+}
+a {
+    text-decoration: none;
+    margin: 10px;
+    color: #ffffff;
+}
+a:hover {
+    color: #ff6565;
+}
+p {
+    font-family: "Source Sans 3", sans-serif;
+    font-optical-sizing: 16;
+    font-weight: 26;
+    font-style: normal;
+  }
+  h5 {
+    font-style: bold;
+    font-size: 36;
+  }
+  .container {
+    justify-content: center;
+    text-align: center;
+    padding: 300px;
+    margin: 50px;
+  }
+  button {
+    background-color: #ff6565;
+    color: #ffffff;
+    border-radius: 22px;
+  }
+  button:hover {
+    opacity: 0.9;
+  }
+  img {
+    margin-top: 10px;
+    margin-left: 20;
+  }
+  nav {
+    margin-top: 10px;
+  }
+.animal {
+    background-color: #f2f2f2;
+    width: 1400px;
+}
+.music {
+    justify-content: center;
+    text-align: center;
+}
+.video {
+    display: flex;
+}
+.sound {
+    flex: auto;
+    justify-content: center;
+    align-items: center;
+    line-height: 26px;
+    padding: 50px;
+}
+h5 {
+    font-family: source sans pro;
+    font-size: 32px;
+    font-weight: bold;
+}
+h6 {
+    font-family: source sans pro;
+    font-size: 18px;
+    font-weight: bold;
+}
+p {
+    font-family: source sans pro;
+    font-size: 14px;
+    font-weight: normal;
+}
+.background {
+    background-image: url(Bitmap0.png); 
+    background-image: black;
+    background-size: cover;
+    color: #ffffff;
+    width: 1400px;
+    height: 650px;
+}
+.lorem {
+    justify-content: center;
+    text-align: center;
+    padding: 100px;
+}
+.dot {
+    display: flex;
+}
+.map {
+    flex: auto;
+    justify-items: center;
+    align-items: center;
+
+}
 .contact {
     display: flex;
 }
