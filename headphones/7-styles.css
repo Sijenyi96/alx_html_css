@@ -1,0 +1,14 @@
+.screen {
+    width: 190px;
+    height: 190px;
+    border: 0;
+    padding: 50px;
+}
+.com {
+    display: flex;
+    flex: auto;
+    width: 70px;
+    height: 190px;
+    position: relative;
+    border: 0;
+}
