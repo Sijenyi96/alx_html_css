@@ -1,10 +1,9 @@
 .background-image {
-    background-image: url(Bitmap\ \(3\).png);
+    background-image: url(background\ \(1\).png);
     background-size: cover;
-    background-color: #979797;
     color: #ffffff;
     height: 800px;
-    width: 1400px;
+    width: 100%;
 }
 a {
     text-decoration: none;
@@ -47,7 +46,7 @@ p {
   }
 .animal {
     background-color: #f2f2f2;
-    width: 1400px;
+    width: 100%;
 }
 .music {
     justify-content: center;

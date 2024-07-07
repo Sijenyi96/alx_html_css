@@ -1,10 +1,9 @@
 .background-image {
-    background-image: url(Bitmap\ \(3\).png);
+    background-image: url(background\ \(1\).png);
     background-size: cover;
-    background-color: #979797;
     color: #ffffff;
     height: 800px;
-    width: 1400px;
+    width: 100%;
 }
 a {
     text-decoration: none;
@@ -47,7 +46,7 @@ p {
   }
 .animal {
     background-color: #f2f2f2;
-    width: 1400px;
+    width: 100%;
 }
 .music {
     justify-content: center;
@@ -79,11 +78,10 @@ p {
     font-weight: normal;
 }
 .background {
-    background-image: url(Bitmap0.png); 
-    background-image: black;
+    background-image: url(background\ \(2\).png); 
     background-size: cover;
     color: #ffffff;
-    width: 1400px;
+    width: 100%;
     height: 650px;
 }
 .lorem {
@@ -98,12 +96,16 @@ p {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    width: 335px;
+    width: 25%;
     height: 373px;
-    margin-left: 700px;
-    padding-top: 50px;
+    margin-left: 50%;
     font-weight: bold;
 
+}
+.email {
+    justify-content: left;
+    text-align: left;
+    margin-left: 2%;
 }
 button {
     border-radius: 22px;
@@ -118,7 +120,7 @@ button:hover {
 }
 .icon {
     background-color: #071629;
-    width: 1400px;
+    width: 100%;
     height: 249px;
 }
 .copy {
@@ -149,8 +151,8 @@ button:hover {
     background-color: #ff6565;
     clip-path: polygon(50% 0%, 100% 38%, 82% 100%, 18% 100%, 0% 38%);
     color: #ffffff;
-    width: 190px;
-    height: 190px;
+    width: 170px;
+    height: 170px;
 }
 p {
     justify-content: center;
@@ -161,4 +163,9 @@ p {
     font-weight: bold;
     font-size: 46px;
     padding-top: 10px;
+}
+.amet {
+    justify-content: center;
+    text-align: center;
+    margin-bottom: 10px;
 }
