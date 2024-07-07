@@ -44,3 +44,49 @@ p {
   nav {
     margin-top: 10px;
   }
+  
+  /* MOBILE PHONE SECTION*/
+  @media only screen and (max-width: 376px) {
+  }
+      .background-image {
+      background-image: url(background\ \(3\).png);
+      background-size: auto;
+      color: #ffffff;
+      height: 896px;
+      width: 376px;
+  }
+  h3 {
+      justify-content: center;
+      text-align: center;
+      width: 357px;
+      height: 80px;
+      margin-top: 25%;
+  }
+  button {
+      background-color: #ff6565;
+      color: #ffffff;
+      justify-content: center;
+      text-align: center;
+      width: 162px;
+      height: 44px;
+      border-radius: 22px;
+      margin-left: 25%;
+  }
+  p {
+      justify-content: center;
+      text-align: center;
+      width: 279;
+      height: 40px;
+      margin-top: 50px;
+  }
+  .img {
+      justify-content: center;
+      align-items: center;
+      margin-left: 100px;
+      margin-top: 20px;
+  }
+  a {
+      color: #ffffff;
+      text-decoration: none;
+      display: none;
+  }
